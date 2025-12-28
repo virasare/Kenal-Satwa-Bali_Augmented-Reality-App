@@ -44,11 +44,11 @@ Aplikasi ini memanfaatkan teknologi AR agar pengguna dapat melihat **objek 3D sa
 Aplikasi ini menggunakan pendekatan **Augmented Reality berbasis marker**, di mana objek 3D dan audio akan muncul setelah kamera berhasil memindai image target.
 
 <p align="center">
-  <img src="screenshots/splash" width="200"/>
-  <img src="screenshots/home" width="200"/>
-  <img src="screenshots/scan-ar" width="200"/>
-  <img src="screenshots/about" width="200"/>
-  <img src="screenshots/info" width="200"/>
+  <img src="screenshots/splash.jpeg" width="200"/>
+  <img src="screenshots/home.jpeg" width="200"/>
+  <img src="screenshots/scan-ar.jpeg" width="200"/>
+  <img src="screenshots/about.jpeg" width="200"/>
+  <img src="screenshots/info.jpeg" width="200"/>
 </p>
 
 ---
